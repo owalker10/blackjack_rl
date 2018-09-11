@@ -1,6 +1,6 @@
-# blackjack_demo
+# blackjack_rl
 
-This is a work in progress project of a blackjack simulation.
+This is a repository of work from my summer internship. The premise is to demonstrate how adding engineered features to reinforcement learning can significantly increase performance. The example here is blackjack. The "Cerebri Value" being referred to is the engineered feature, named after the product that Cerebri AI calculates for its customers.
 
 ## Key Terms
 - upcard: The dealer is initially dealt two cards, one face up and one face down. The upcard is the dealer's face-up card.

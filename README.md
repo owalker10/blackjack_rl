@@ -2,6 +2,8 @@
 
 This is a repository of work from my summer internship. The premise is to demonstrate how adding engineered features to reinforcement learning can significantly increase performance. The example here is blackjack. The "Cerebri Value" being referred to is the engineered feature, named after the product that Cerebri AI calculates for its customers.
 
+<a href="https://pdfhost.io/v/qt0+EGQtc_Cerebri_Values_Research_Poster.pdf" target="_blank">Research poster here</a>
+
 ## Key Terms
 - upcard: The dealer is initially dealt two cards, one face up and one face down. The upcard is the dealer's face-up card.
 - Basic Strategy: A set of logic that determines that statistically best blackjack move to make for any given set of player cards and dealer upcard.
